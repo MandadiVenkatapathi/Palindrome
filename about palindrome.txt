@@ -1,2 +1,0 @@
-about palindrome 
-here we should know about what is palindrome and explanation
